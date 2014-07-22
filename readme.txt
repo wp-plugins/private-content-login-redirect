@@ -15,6 +15,7 @@ Do you post private content? Are you sending those links to your users with priv
 WordPress by default redirects all non-logged users to a 404(content not found) page when they follow a private post or private page link.Instead of showing a 404 page, this plugin simply redirects those users to the login page.After successful login, it automatically redirects users with private content access to the private content link they followed.
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
+Visit [Developer Website](http://increasy.com)
 
 
 
