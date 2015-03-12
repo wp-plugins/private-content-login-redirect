@@ -3,7 +3,7 @@ Contributors: meabhisek
 Tags: private content, redirection, login  
 Requires at least: 3.0 
 Tested up to: 4.1 
-Stable tag: trunk
+Stable tag: 1.0.1
 License: GPLv2
 	
 Redirects non-logged users to login page when they follow a private post or private page link.
@@ -40,3 +40,10 @@ Visit [Developer Website](http://increasy.com)
 3. All set
 
 If you are new to WordPress : [Installing Plugins](http://codex.wordpress.org/Managing_Plugins#Installing_Plugins)
+
+== Changelog ==
+
+= 1.0.1 =
+
+* Solved Issue: When the plugin Fails to redirect if redirect_canonical() finds a match.(Thanks Dave James Miller for pointing this out)
+* Works with WordPress 4.1.1
