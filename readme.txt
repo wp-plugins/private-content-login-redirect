@@ -16,6 +16,7 @@ WordPress by default redirects all non-logged users to a 404(content not found) 
 
 **Note**: If you post private content and want to get more subscribers to read your private content, I developed a Free plugin for that too...Check out  [Mini Membership](http://wordpress.org/plugins/mini-membership/).
 
+If you like this plugin, please consider leaving a [review](https://wordpress.org/support/view/plugin-reviews/private-content-login-redirect). Thank you!
 
 Follow the developer on [Twitter](https://twitter.com/twitabhisek)
 Visit [Developer Website](http://increasy.com)
