@@ -2,7 +2,7 @@
 Contributors: meabhisek  
 Tags: private content, redirection, login  
 Requires at least: 3.0 
-Tested up to: 4.1 
+Tested up to: 4.2.1 
 Stable tag: 1.0.1
 License: GPLv2
 	
